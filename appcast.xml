@@ -3,10 +3,10 @@
     <channel>
         <title>appcast</title>
         <item>
-            <title>Version 1.3.1</title>
+            <title>Version 1.3.2</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 14 Nov 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.carsifi.adapter" sparkle:version="1.3.1" sparkle:os="android" />
+            <pubDate>Sun, 25 Nov 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.carsifi.adapter" sparkle:version="1.3.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
