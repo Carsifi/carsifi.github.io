@@ -3,10 +3,10 @@
     <channel>
         <title>appcast</title>
         <item>
-            <title>Version 1.5.2</title>
+            <title>Version 1.5.3</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 26 May 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.carsifi.adapter" sparkle:version="1.5.2" sparkle:os="android" />
+            <pubDate>Sun, 6 Jun 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.carsifi.adapter" sparkle:version="1.5.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
